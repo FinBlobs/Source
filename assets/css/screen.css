@@ -2783,6 +2783,11 @@ body[class*=" gh-font-heading"]:not(.gh-font-heading-fira-sans):not(.gh-font-hea
     max-height: 40px;
 }
 
+.gh-footer-menu {
+  grid-column: 2;
+  justify-self: center;
+}
+
 .gh-footer-menu .nav {
     display: flex;
     justify-content: center;
